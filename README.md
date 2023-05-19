@@ -90,15 +90,11 @@ python bot.py
 
 The bot will automatically post weather updates on Twitter three times a day for the city of Aracaju.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 # Bot do Clima
 
-[![Licença](https://img.shields.io/badge/licença-MIT-blue.svg)](LICENSE_PT)
 
 ## Descrição
 
