@@ -1,7 +1,6 @@
 Em pt-br logo abaixo do texto em en-us.
 # Weather Bot
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 
@@ -190,7 +189,3 @@ python bot.py
 ```
 
 O bot irá publicar automaticamente atualizações sobre o clima no Twitter três vezes ao dia para a cidade de Aracaju.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE_PT).
